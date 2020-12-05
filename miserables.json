@@ -9,10 +9,7 @@
 
     ],
     "links": [
-   
       {"source": "a1", "target": "a2", "value": 3},
       {"source": "b1", "target": "b2", "value": 6}
-
-  
     ]
   }
