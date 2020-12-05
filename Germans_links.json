@@ -1,0 +1,36 @@
+[
+   {
+      "source":"CHANGE",
+      "label":"ACTOR",
+      "target":"GERMANS"
+   },
+   
+   {
+      "source":"CHANGE",
+      "label":"QUANTITY",
+      "target":"ONE"
+   },
+   {
+      "source":"CHANGE",
+      "label":"OBJECT",
+      "target":"BULB"
+   },
+   {
+      "source":"CHANGE2",
+      "label":"ACTOR",
+      "target":"POLES"
+   },
+   
+   {
+      "source":"CHANGE2",
+      "label":"QUANTITY",
+      "target":"THREE"
+   },
+   {
+      "source":"CHANGE2",
+      "label":"OBJECT",
+      "target":"BULB2"
+   }
+
+
+]

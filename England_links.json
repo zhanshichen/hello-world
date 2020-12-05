@@ -1,0 +1,19 @@
+[
+   {
+      "source":"STAY_IN",
+      "label":"ACTOR",
+      "target":"TEABAG"
+   },
+   
+   {
+      "source":"STAY_IN",
+      "label":"QUANTITY",
+      "target":"LONG"
+   },
+   {
+      "source":"STAY_IN",
+      "label":"CONTAINER",
+      "target":"CUP"
+   }
+
+]

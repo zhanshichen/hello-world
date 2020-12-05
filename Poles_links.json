@@ -1,0 +1,47 @@
+[
+   {
+      "source":"CHANGE",
+      "label":"ACTOR",
+      "target":"PEOPLE"
+   },
+   
+   {
+      "source":"CHANGE",
+      "label":"QUANTITY",
+      "target":"ONE"
+   },
+   {
+      "source":"CHANGE",
+      "label":"OBJECT",
+      "target":"BULB"
+   },
+   {
+      "source":"CHANGE",
+      "label":"ACTION",
+      "target":"TURNING THE BULB AROUND AND AROUND"
+   },
+   {
+      "source":"CHANGE2",
+      "label":"ACTOR",
+      "target":"POLES"
+   },
+   
+   {
+      "source":"CHANGE2",
+      "label":"QUANTITY",
+      "target":"THREE"
+   },
+   {
+      "source":"CHANGE2",
+      "label":"OBJECT",
+      "target":"BULB2"
+   },
+   {
+      "source":"CHANGE2",
+      "label":"ACTION",
+      "target":"HOLDIND THE BULB, AND TURNING THE LADDER AROUND AND AROUND"
+   }
+
+
+
+]

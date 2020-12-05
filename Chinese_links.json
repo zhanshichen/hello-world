@@ -1,0 +1,25 @@
+[
+   {
+      "source":"CREATE",
+      "label":"ACTOR",
+      "target":"GOD"
+   },
+   
+   {
+      "source":"CREATE",
+      "label":"CREATION",
+      "target":"HEAVEN AND EARTH"
+   },
+   {
+      "source":"CREATE2",
+      "label":"ACTOR",
+      "target":"CHINA"
+   },
+   
+   {
+      "source":"CREATE2",
+      "label":"CREATION",
+      "target":"EVERYTHING ELSE"
+   }
+
+]
