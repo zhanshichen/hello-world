@@ -1,0 +1,35 @@
+[
+   {
+      "source":"PLAYING_GAME",
+      "label":"ACTOR",
+      "target":"MEXICANS"
+   },
+   
+   {
+      "source":"PLAYING_GAME",
+      "label":"GAME",
+      "target":"BASKETBALL"
+   },
+   {
+      "source":"MEXICANS",
+      "label":"QUANTITY",
+      "target":"TWO"
+   },
+   {
+      "source":"PLAYING_GAME2",
+      "label":"ACTOR",
+      "target":"PEOPLE"
+   },
+   
+   {
+      "source":"PLAYING_GAME2",
+      "label":"GAME",
+      "target":"BASKETBALL2"
+   },
+   {
+      "source":"PEOPLE",
+      "label":"QUANTITY",
+      "target":"TWO2"
+   }
+
+]
