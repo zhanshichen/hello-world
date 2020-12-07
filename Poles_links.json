@@ -18,7 +18,7 @@
    {
       "source":"CHANGE",
       "label":"ACTION",
-      "target":"TURNING THE BULB AROUND AND AROUND"
+      "target":"normal"
    },
    {
       "source":"CHANGE2",
@@ -39,7 +39,7 @@
    {
       "source":"CHANGE2",
       "label":"ACTION",
-      "target":"HOLDIND THE BULB, AND TURNING THE LADDER AROUND AND AROUND"
+      "target":"poles"
    }
 
 
