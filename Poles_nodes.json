@@ -12,8 +12,8 @@
 	"ONE":{
 		"name":"ONE"
 	},
-        "TURNING THE BULB AROUND AND AROUND":{
-		"name":"TURNING THE BULB AROUND AND AROUND"
+        "normal":{
+		"name":"normal"
 	},
         "CHANGE2":{
 		"name":"CHANGE2"
@@ -27,8 +27,8 @@
 	"THREE":{
 		"name":"THREE"
 	},
-	"HOLDIND THE BULB, AND TURNING THE LADDER AROUND AND AROUND":{
-		"name":"HOLDIND THE BULB, AND TURNING THE LADDER AROUND AND AROUND"
+	"poles":{
+		"name":"poles"
 	},
 	
 
