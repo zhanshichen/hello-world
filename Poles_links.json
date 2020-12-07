@@ -18,7 +18,7 @@
    {
       "source":"CHANGE",
       "label":"ACTION",
-      "target":"normal"
+      "target":"NORMAL"
    },
    {
       "source":"CHANGE2",
@@ -39,9 +39,7 @@
    {
       "source":"CHANGE2",
       "label":"ACTION",
-      "target":"normal2"
+      "target":"NORMAL2"
    }
-
-
 
 ]
