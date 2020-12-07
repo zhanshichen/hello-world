@@ -1,0 +1,23 @@
+[
+   {
+      "source":"CHANGE",
+      "label":"ACTOR",
+      "target":"PEOPLE"
+   },
+   
+   {
+      "source":"CHANGE",
+      "label":"QUANTITY",
+      "target":"ONE"
+   },
+   {
+      "source":"CHANGE",
+      "label":"OBJECT",
+      "target":"BULB"
+   },
+   {
+      "source":"CHANGE",
+      "label":"ACTION",
+      "target":"NORMAL"
+   }
+]
