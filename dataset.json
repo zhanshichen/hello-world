@@ -1,0 +1,38 @@
+{
+        
+    "nodes": [
+    {"name": "CREATE","root":1}, 
+    {"name": "GOD","root":0},
+    {"name": "HEAVEN AND EARTH","root":0},
+    {"name": "TWO","root":0},
+    {"name": "HUGE, PRICELESS","root":0},
+    {"name": "SPIRITUAL","root":0},
+    {"name": "HOLY","root":0},
+
+    {"name": "CREATE","root":1},
+    {"name": "CHINA","root":0}, 
+    {"name": "EVERYTHING ELSE","root":0},
+    {"name": "HUGE AMOUNT","root":0},
+    {"name": "SMALL, CHEAP","root":0},
+    {"name": "GEOGRAPHICAL","root":0},
+    {"name": "CASUAL","root":0}
+    ],
+    
+    "edges": [
+    {"source": 0, "target": 1,"value":"ACTOR","root":0},
+    {"source": 0, "target": 2,"value":"ACTOR","root":0},
+    {"source": 0, "target": 3,"value":"ACTOR","root":0},
+    {"source": 0, "target": 4,"value":"ACTOR","root":0},
+    {"source": 0, "target": 5,"value":"ACTOR","root":0},
+    {"source": 0, "target": 6,"value":"ACTOR","root":0},
+    {"source": 0, "target": 8,"value":"ACTOR","root":1},
+
+    {"source": 7, "target": 8,"value":"ACTOR","root":0},
+    {"source": 7, "target": 9,"value":"ACTOR","root":0},
+    {"source": 7, "target": 10,"value":"ACTOR","root":0},
+    {"source": 7, "target": 11,"value":"ACTOR","root":0},
+    {"source": 7, "target": 12,"value":"ACTOR","root":0},
+    {"source": 7, "target": 13,"value":"ACTOR","root":0}
+    ]
+
+}
