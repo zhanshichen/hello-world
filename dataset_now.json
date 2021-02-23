@@ -1,19 +1,18 @@
 {"nodes": 
  [
-   {"name": "NOBLE_LIFE", "root": 1}, //0
+   {"name": "NOBLE_LIFE", "root": 1}, 
    {"name": "English People", "root": 0}, 
    {"name": "England", "root": 0}, 
-   
    {"name": "Tea-Drinking", "root": 0}, 
   
-   {"name": "STAY_IN", "root": 1}, //4
+   {"name": "STAY_IN", "root": 1}, 
    {"name": "Teabag", "root": 0}, 
    {"name": "Longer", "root": 0}, 
    {"name": "Cup", "root": 0}, 
    {"name": "England", "root": 0}, 
    {"name": "5-Minute", "root": 0}, 
   
-   {"name": "STAY_IN", "root": 1}, //10
+   {"name": "STAY_IN", "root": 1}, 
    {"name": "England", "root": 0}, 
    {"name": "Shorter", "root": 0}, 
    {"name": "Cup", "root": 0}, 
@@ -35,7 +34,6 @@
    {"source": 0, "target": 1, "value": "Actor", "root": 0}, 
    {"source": 0, "target": 2, "value": "Location", "root": 0}, 
    {"source": 0, "target": 3, "value": "Activity", "root": 0}, 
-  
    {"source": 0, "target": 4, "value": "Emotion-first", "root": 1}, 
    {"source": 4, "target": 5, "value": "Actor", "root": 0}, 
    {"source": 4, "target": 6, "value": "Temporal-duration", "root": 0}, 
